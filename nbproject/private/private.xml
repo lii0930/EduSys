@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Models/Nhanvien.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Database/JDBC.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Database/MyConnectionDb.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/QLNV.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/Gioithieu.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Database/ChuyendeDAO.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Database/NhanviienDAO.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Database/NguoihocDAO.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Khac/XDate.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Database/EduSysDAO.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/EduSys.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Database/ThongkeDAO.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Models/Nguoihoc.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/QLHV.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/Thongke.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/QLKH.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Khac/Image.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/QLCD.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/Main.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/Login.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/progress.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Models/Khoahoc.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/QLNH.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Database/HocvienDAO.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/edusys/DoiMK.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Database/KhoahocDAO.java</file>
+            <file>file:/D:/FPT%20Polytechnic/Duanmau/EduSys/src/Khac/Auth.java</file>
+        </group>
+    </open-files>
+</project-private>

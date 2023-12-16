@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testing.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testDangNhapSai"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testing.LoginTest -->
+      <class name="edusys.LoginTest">
+        <methods>
+          <include name="btnDangNhapActionPerformedTest"/>
+          <include name="txtMaNVActionPerformedTest"/>
+          <include name="jLabel5MouseClickedTest"/>
+          <include name="beforeTest"/>
+          <include name="afterSuite"/>
+          <include name="mainTest"/>
+          <include name="beforeClass"/>
+          <include name="ketThucTest"/>
+          <include name="afterClass"/>
+          <include name="beforeSuite"/>
+          <include name="LoginTest"/>
+          <include name="initComponentsTest"/>
+          <include name="afterTest"/>
+          <include name="dangNhapTest"/>
+          <include name="afterMethod"/>
+          <include name="btnExitActionPerformedTest"/>
+          <include name="btnDangNhapKeyPressedTest"/>
+        </methods>
+      </class> <!-- edusys.LoginTest -->
+      <class name="testing.QLNHTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="testInsertNull"/>
+          <include name="testUpdateNull"/>
+          <include name="testInsertTrungMNH"/>
+          <include name="testInsert"/>
+          <include name="testUpdate"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testing.QLNHTest -->
+      <class name="testing.NguoihocDAOTest">
+        <methods>
+          <include name="testDeleteHopLe"/>
+          <include name="setUp"/>
+          <include name="testDeleteNULL"/>
+          <include name="testUpdateNULL" invocation-numbers="0"/>
+          <include name="testInsertHopLe" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- testing.NguoihocDAOTest -->
+      <class name="testing.ChuyendeDAOTest">
+        <methods>
+          <include name="testSelectById"/>
+          <include name="testInserHopLe" invocation-numbers="0 1 2"/>
+          <include name="setUp"/>
+          <include name="testDeleteHopLe"/>
+          <include name="testDeleteNull"/>
+        </methods>
+      </class> <!-- testing.ChuyendeDAOTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
